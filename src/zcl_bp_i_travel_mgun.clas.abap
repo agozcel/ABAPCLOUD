@@ -1,0 +1,6 @@
+CLASS zcl_bp_i_travel_mgun DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_travel_m_gun.
+
+ENDCLASS.
+
+CLASS zcl_bp_i_travel_mgun IMPLEMENTATION.
+ENDCLASS.
